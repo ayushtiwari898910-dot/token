@@ -1,7 +1,7 @@
 {
   "name": "fb-token-commenter",
   "version": "1.0.0",
-  "description": "Facebook Post Token Commenter — Dashboard by ~ Ayan 3:)",
+  "description": "Facebook Post Token Commenter — Dashboard by ~ ayush 3:)",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
